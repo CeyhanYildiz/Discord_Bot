@@ -32,6 +32,7 @@ Developed by **Ceyhan Yildiz**, this bot serves a Discord community with fun and
 | `/addpoints` | Admin-only: Grant points to a user               |
 
 ---
+![Screenshot 2025-05-26 222026](https://github.com/user-attachments/assets/1ccdaa90-39ff-448c-b6f6-2b444c376cac)
 
 ## Shop Catalog
 
@@ -49,6 +50,7 @@ Users can redeem points for rewards using the `/buy [index]` command.
 | 8     | $60 Game Credit        | 6000           |
 
 ---
+![Screenshot 2025-05-26 221843](https://github.com/user-attachments/assets/54dbddbe-4190-452c-b1f3-dc97a9a094e4)
 
 ## Hosting Architecture
 
