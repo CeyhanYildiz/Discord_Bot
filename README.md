@@ -2,6 +2,9 @@
 
 **Alune-Bot** is a versatile Discord bot written in **JavaScript** and hosted on a **PYNQ-Z2 FPGA** board. It features a point-based reward system where users can earn, gamble, and redeem points for real and in-server rewards using slash commands.  
 
+![Demo](Discord.gif)
+
+
 ---
 
 ## 🧠 Overview
@@ -154,7 +157,7 @@ const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN);
 * **PM2** or **systemd** for process management
 
 ---
-<video controls src="#💬general _ No Name - Discord 2025-10-03 22-10-56.mp4" title="Title"></video>
+
 
 ## 📬 Contact
 
