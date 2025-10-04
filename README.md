@@ -154,6 +154,7 @@ const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN);
 * **PM2** or **systemd** for process management
 
 ---
+<video controls src="#💬general _ No Name - Discord 2025-10-03 22-10-56.mp4" title="Title"></video>
 
 ## 📬 Contact
 
