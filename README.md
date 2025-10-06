@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 Created by **Ceyhan Yildiz**, Alune-Bot is designed for **fun, engagement, and moderation** within a Discord server. Features include:
 
@@ -19,7 +19,7 @@ Created by **Ceyhan Yildiz**, Alune-Bot is designed for **fun, engagement, and m
 
 ---
 
-## 📦 Features
+##  Features
 
 | Command      | Description                                      |
 |--------------|--------------------------------------------------|
@@ -32,7 +32,7 @@ Created by **Ceyhan Yildiz**, Alune-Bot is designed for **fun, engagement, and m
 
 ---
 
-## 🛍️ Shop Catalog
+##  Shop Catalog
 
 Redeem points using `/buy [item]`.  
 
@@ -49,7 +49,7 @@ Redeem points using `/buy [item]`.
 
 ---
 
-## 🎰 Anti-Abuse Protection
+##  Anti-Abuse Protection
 
 To ensure fairness:
 
@@ -61,7 +61,7 @@ This prevents rapid farming and balances point flow.
 
 ---
 
-## ⚙️ Hosting with PYNQ-Z2
+##  Hosting with PYNQ-Z2
 
 The bot is hosted on a **PYNQ-Z2 FPGA** board with a custom boot application:
 
@@ -71,7 +71,7 @@ The bot is hosted on a **PYNQ-Z2 FPGA** board with a custom boot application:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Environment Setup
 
@@ -147,7 +147,7 @@ const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN);
 ---
 
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 * **JavaScript**
 * **Node.js** & **discord.js**
@@ -159,6 +159,6 @@ const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN);
 ---
 
 
-## 📬 Contact
+##  Contact
 
 For feature requests or bug reports, contact **cey_with_a_j** on Discord.
